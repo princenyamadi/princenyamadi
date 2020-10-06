@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning React.js.
+- 📫 How to reach me:princenyamadi.pn@gmail.com
 
 <!--
 **princenyamadi/princenyamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
