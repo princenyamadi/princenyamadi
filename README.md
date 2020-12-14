@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
 
 <!--
