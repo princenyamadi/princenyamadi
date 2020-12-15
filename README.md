@@ -1,5 +1,5 @@
 ### Hi there 👋
-# DON'T DOUBT YOUR VIBE  ### 
+# DON'T DOUBT YOUR VIBE.
 ### -Elon Musk
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
