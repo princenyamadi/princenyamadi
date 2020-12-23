@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on flutter projects.
-# DON'T DOUBT YOUR VIBE.
+# DON'T DOUBT YOUR VIBE
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
