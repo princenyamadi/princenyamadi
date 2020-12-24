@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on flutter projects.
+- 🔭 I’m Prince and I love to code
 # DON'T DOUBT YOUR VIBE
 
 - 🌱 I’m currently learning flutter
