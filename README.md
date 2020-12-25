@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m Prince and I love to code
-# DON'T DOUBT YOUR VIBE
 
+# DON'T DOUBT YOUR VIBE
+## Keep Moving Forward
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
 
