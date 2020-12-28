@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # DON'T DOUBT YOUR VIBE
 
