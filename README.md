@@ -1,5 +1,5 @@
 
-# DON'T DOUBT YOUR VIBE
+# Don't doubt your vibe. EXCELSIOR!!
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
