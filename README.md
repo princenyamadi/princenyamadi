@@ -1,4 +1,6 @@
-
+Hi there, 
+I love coding.
+IOT is awesome.
 # Don't doubt your vibe. EXCELSIOR!!
 
 - 🌱 I’m currently learning flutter
