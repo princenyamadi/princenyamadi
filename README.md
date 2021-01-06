@@ -1,6 +1,6 @@
 Hi there, 
-I love coding.
-IOT is awesome.
+- I love coding.
+- Internet Of Things is awesome.
 # Don't doubt your vibe. EXCELSIOR!!
 
 - 🌱 I’m currently learning flutter
