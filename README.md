@@ -1,7 +1,7 @@
 Hi there, 
 - I love coding.
 - Internet Of Things is awesome.
-# Don't doubt your vibe. EXCELSIOR!!
+# Don't doubt your vibe. 
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
