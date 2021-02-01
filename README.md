@@ -1,6 +1,5 @@
 Hi there, 
-- I love coding.
-- Internet Of Things is awesome.
+
 # Don't doubt your vibe. 
 
 - 🌱 I’m currently learning flutter
