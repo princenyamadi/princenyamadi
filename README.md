@@ -1,6 +1,6 @@
 Hi there, 
 
-# Don't doubt your vibe. 
+# DON'T DOUBT YOUR VIBE.
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
