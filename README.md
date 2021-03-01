@@ -1,6 +1,7 @@
 Hi there, 
-
+### I'm a Mobile App Engineer
 # DON'T DOUBT YOUR VIBE.
+# EXCELSIOR
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me:princenyamadi.pn@gmail.com
