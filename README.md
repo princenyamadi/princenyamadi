@@ -1,7 +1,7 @@
 Hi there, 
 ### I'm a Mobile App Engineer
-# DON'T DOUBT YOUR VIBE.
-# EXCELSIOR
+# DON'T DOUBT YOUR VIBE. EXCELSIOR!!!
+
 
 
 - 📫 How to reach me:princenyamadi.pn@gmail.com
