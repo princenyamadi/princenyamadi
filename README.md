@@ -1,5 +1,5 @@
-Hi there, 
-### My name is Prince Nyamadi, I'm a Mobile App Engineer
+Hello World!, 
+### I love Mobile App Development
 # DON'T DOUBT YOUR VIBE. EXCELSIOR!!!
 
 
