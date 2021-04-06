@@ -4,8 +4,8 @@ Software Engineer :
 ### I love 
   - Mobile development
   - Web development
- ### and 
-  - IoT Ethusiast
+ ### I also love working with
+  - IoT tools and gagets
 
 
 
