@@ -1,6 +1,9 @@
 Hello World, 
-
-## DON'T DOUBT YOUR VIBE. EXCELSIOR !!!
+My name is Prince Nyamadi and I'm a 
+Software Engineer : 
+  - Mobile development
+  - Web development
+  - IoT Ethusiast
 
 
 
