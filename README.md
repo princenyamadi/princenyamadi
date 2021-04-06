@@ -5,7 +5,7 @@ Software Engineer :
   - Mobile development
   - Web development
  ### I also love working with
-  - IoT tools and gagets
+  - IoT tools and gadgets
 
 
 
