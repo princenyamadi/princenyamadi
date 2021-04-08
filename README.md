@@ -6,6 +6,8 @@ Software Engineer :
   - Web development
  ### I also love working with
   - IoT tools and gadgets
+  - -
+  - 
 
 
 
