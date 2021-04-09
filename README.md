@@ -1,7 +1,7 @@
 Hello World, 
 My name is Prince Nyamadi and I'm a 
 Software Engineer : 
-### I love 
+### I love :
   - Mobile development
   - Web development
  ### I also love working with
