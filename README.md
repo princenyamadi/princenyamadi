@@ -1,6 +1,5 @@
-Hello World, 
-My name is Prince Nyamadi and I'm a 
-Software Engineer : 
+### Hi, I'm Prince Nyamadi
+#### Software Engineer : 
 
 
 
