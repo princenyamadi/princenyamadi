@@ -1,6 +1,14 @@
 ### Hi, I'm Prince Nyamadi
 #### Software Engineer 
 
+-
+-
+-
+-
+-
+--
+-
+
 
 
   
