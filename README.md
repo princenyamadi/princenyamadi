@@ -2,8 +2,6 @@
 #### Software Engineer 
 
 - - - 
-- 
-
 
 -  -
   
