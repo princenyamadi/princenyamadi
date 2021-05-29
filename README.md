@@ -1,5 +1,6 @@
 ## Hi!,
-#### I'm Prince. 
+#### My name is Prince Nyamadi. 
+##### I love software development.
 
 - - - 
 
