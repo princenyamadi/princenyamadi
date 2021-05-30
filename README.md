@@ -1,6 +1,6 @@
 ## Hi!,
 #### My name is Prince Nyamadi. 
-##### I love software development.
+##### Love programming
 
 - - - 
 
