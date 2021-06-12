@@ -2,7 +2,7 @@
 #### My name is Prince Nyamadi. 
 ##### Love programming
 
-- - - 
+
 
 -  -
 
