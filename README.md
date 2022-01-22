@@ -12,8 +12,8 @@ I am Prince Nyamadi, currently a mobile engineer, love playing and tinkering wit
 
 
 
-### ⚡️ : Looking forward to improving my mobile app development skills.
-### 🚀:
+
+# 🚀
 
 <h1></h1> 
 <h1></h1> 
