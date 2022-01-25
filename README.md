@@ -15,8 +15,6 @@ I am Prince Nyamadi, currently a mobile engineer, love playing and tinkering wit
 
 # 🚀
 
-<h1></h1> 
-<h1></h1> 
 <h2>🛠Tech Stack</h2>
 
 
