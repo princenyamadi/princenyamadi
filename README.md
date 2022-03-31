@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Prince Nyamadi  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Hello, I'm Prince Nyamadi  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="50" width="50"></h2>
 
 ![Linkedin Follow](https://img.shields.io/badge/LinkedIn-300-blue?style=social&logo=linkedin)
 ![Twitter Follow](https://img.shields.io/twitter/follow/princenyamadi?style=social) 
