@@ -8,7 +8,10 @@
 <h2 align="center">DON'T DOUBT YOUR VIBE!</h2>
 
 <h2>About Me</h2>
-I am Prince Nyamadi, currently a mobile engineer, love playing and tinkering with IoT gadgets. Passionate about home automation. 
+I am Prince Nyamadi, currently a mobile engineer, 
+love playing and tinkering with IoT gadgets.
+
+Currently exploring mobile development and automation.
 
 
 
