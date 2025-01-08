@@ -77,4 +77,4 @@ Currently exploring mobile development and automation.
 [<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="38" width="38">](https://www.linkedin.com/in/prince-nyamadi-51a0401a7/) 
 [<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="38" width="38">](https://twitter.com/princenyamadi) 
 [<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" color="blue" height="38" width="38">](mailto:princenyamadi.pn@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="38" width="38">](https://www.instagram.com/eyram_pn/)
+
