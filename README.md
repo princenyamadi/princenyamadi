@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 👋🏽 Hi, I’m Prince E. Nyamadi — *(Mobile | Fullstack) Developer*
+### 👋🏽 Hi, I’m Prince E. Nyamadi — **Software Engineer** *(Mobile | Fullstack)*
 
 I'm a passionate Software Engineer with **7+ years of experience** building clean, scalable, and user-centric solutions across mobile, web, and backend systems.
 
