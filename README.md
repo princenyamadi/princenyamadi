@@ -25,15 +25,15 @@ I specialize in **Flutter**, **React**, **Angular**, **Spring Boot**, and **Node
   **Role:** Lead Mobile Developer – Built the app UI, integrated REST APIs and Firebase services, and set up continuous deployment pipelines.  
   [Android](https://play.google.com/store/apps/details?id=com.stanbic.sims.sims&pcampaignid=web_share) | [iOS](https://apps.apple.com/gh/app/sims-ltd/id6443445525)
 
-- 👩🏽‍⚕️ **Shabo Pay** – A financial payments app for handling subscriptions and transactions with seamless syncing between user and merchant apps.  
+- 👩🏽‍⚕️ **[Shabo Pay](https://shabopay.com/)** – A financial payments app for handling subscriptions and transactions with seamless syncing between user and merchant apps.  
   **Tech Stack:** Flutter, Firebase  
   **Role:** Mobile Developer – Focused on data sharing logic and real-time synchronization.
 
-- 📈 **ZapperPay** – A fintech and social app allowing users to make payments, create crowdfunds, and engage socially.  
+- 📈 **[ZapperPay](https://zapperpay.com/)** – A fintech and social app allowing users to make payments, create crowdfunds, and engage socially.  
   **Tech Stack:** Flutter  
   **Role:** Mobile Developer – Developed core screens and logic for payments and social interactions.
 
-- 📹 **Event Tour Home Destination** – A tour booking platform for planning and reserving travel experiences.  
+- 📹 **[Event Tour Home Destination](http://eventtourhomedestination.com/)** – A tour booking platform for planning and reserving travel experiences.  
   **Tech Stack:** Next.js, Node.js  
   **Role:** Fullstack Developer – Built the web platform using server-side rendering and scalable backend APIs.
 
